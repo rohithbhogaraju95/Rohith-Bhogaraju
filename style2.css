@@ -1,0 +1,69 @@
+nav{
+    font-family: 'georgia', Courier, monospace;
+    font-size: large;
+    background-color: lightgoldenrodyellow;
+    width: 25%;
+    color: black;
+    height: 80vh;
+    float: left;
+    text-align: center;
+}
+.header{
+    height:120px;
+    background-image: url(https://www.touslesforfaits.fr/wp-content/uploads/2021/11/Promotions-forfait-free-box.png);
+    background-size: 100% 15vh;
+}
+
+.outer_main{
+    font-family: 'georgia', Georgia, 'Times New Roman', Times, serif, monospace;
+    font-style: normal;
+    font-size: medium;
+    background-color: whitesmoke
+    width: 50%;
+    height: 80vh;
+    text-align: center;
+    color: black;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.inner_main{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: large;
+    background-color: whitesmoke
+    color: blue;
+    text-align: left;
+    margin-left: 5px;
+}
+.hobby_links{
+    text-align: left; 
+    font-size: large;
+}
+footer{
+    font-style: oblique;
+    text-align: center;
+    background-color: gray;
+    color: black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    
+}
+.welcome_pic{
+    display:block;
+    height: 80px;
+    width: 100%;
+    border-top: 2px solid lightgreen;
+    border-left: 2px solid lightgreen;
+    border-right: 2px solid lightgreen;
+}
+aside
+{
+    width: 25%;
+    background-color: lightblue;
+    float: right;
+    height: 80vh;
+}
